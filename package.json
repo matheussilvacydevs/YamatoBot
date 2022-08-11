@@ -28,7 +28,7 @@
   "homepage": "https://github.com/matheussilvacydevs/YamatoBot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "awesome-phonenumber": "^2.47.0",
     "axios": "^0.21.1",
     "base64-img": "^1.0.4",
